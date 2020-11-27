@@ -79,6 +79,7 @@ For bug reporting instructions, please see:
 <https://gcc.gnu.org/bugs/>.
 ```
 ### Cpp-Compiler-Win-Linux 64Bit Version Options
+```
 Usage: cpp-compiler-64bit.sh [options] file...
 Options:
   -pass-exit-codes         Exit with highest error code from a phase.
